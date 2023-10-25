@@ -1,8 +1,18 @@
 ![logo](https://fortherealm.io/img/motd.png)
 
+# Welcome to For the Realm!
 
-[Website](https://fortherealm.io) | [Discord](https://discord.gg/6DU3cF6fDj) | [Mods](https://mod.io/g/mordhau/u/therealdock) | [GitHub](https://github.com/for-the-realm)
+## Links
+https://fortherealm.io
 
+https://discord.gg/6DU3cF6fDj
+
+https://mod.io/g/mordhau/u/therealdock
+
+https://github.com/for-the-realm
+
+
+## Changelog
 
 ### Oct 25, 2023
 
