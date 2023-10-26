@@ -5,7 +5,7 @@
 ## Links
 https://fortherealm.io
 
-https://discord.gg/6DU3cF6fDj
+https://dsc.gg/fortherealm
 
 https://mod.io/g/mordhau/u/therealdock
 
